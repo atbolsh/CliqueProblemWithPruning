@@ -22,3 +22,5 @@ Based on existing clique literature, though, it's clear I'm not the only one
 to have thought of this kind of pruning method, so I won't spend too much more time on it.
 
 Just a fun excursion.
+
+PS All credit for the DIMACS files goes to DIMACS, not me.
